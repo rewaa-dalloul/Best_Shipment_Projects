@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9f9P9Hu1IjTdbh/AUlRQS1tvY1W8WJvZEdI3sTq5J5Ovqq69WatSfFXc3Lh7MH5tx2VdeQgj9V17xwwgWndCig==",
+  "dgSpecHash": "PP4k4WWIhVFs+TpTgjh9WMB6XZnBTU7kULcJHo+8IunpoLdslEWTxA9y7XSb2GFSzcc5j7SqRxPpcxJSdapYxw==",
   "success": true,
-  "projectFilePath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.API\\SPM.API.csproj",
+  "projectFilePath": "D:\\API Course\\Final Github\\BestShipment\\SPM.API\\SPM.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alawael\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alawael\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

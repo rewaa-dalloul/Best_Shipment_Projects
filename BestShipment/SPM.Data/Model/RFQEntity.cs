@@ -8,7 +8,7 @@ namespace SPM.Data.Model
 {
     public class RFQEntity: BaseEntity
     {
-        public string Status { get; set; }
+        public Status Status { get; set; }
         public int SupplierId { get; set; }
         public SupplierEntity Supplier { get; set; }
         public int PurchaseOrderId { get; set; }

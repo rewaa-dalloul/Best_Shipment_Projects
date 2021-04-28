@@ -12,10 +12,10 @@ namespace SPM.Data.Model
         public string Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string UserType { get; set; }
-        public int ClientId { get; set; }
+        public UserType UserType { get; set; }
+        public int? ClientId { get; set; }
         public ClientEntity Client { get; set; }
-        public int SupplierId { get; set; }
+        public int? SupplierId { get; set; }
         public SupplierEntity Supplier { get; set; }
 
     }

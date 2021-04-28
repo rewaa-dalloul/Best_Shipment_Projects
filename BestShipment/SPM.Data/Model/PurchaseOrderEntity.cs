@@ -8,7 +8,7 @@ namespace SPM.Data.Model
 {
     public class PurchaseOrderEntity : BaseEntity 
     {
-        public string Status { get; set; }
+        public Status Status { get; set; }
         public DateTime DeliveryDate { get; set; }
         public string PaymentType { get; set; }
         public int BranchId { get; set; }

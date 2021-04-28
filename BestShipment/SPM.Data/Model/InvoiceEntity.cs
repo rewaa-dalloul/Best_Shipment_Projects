@@ -8,7 +8,7 @@ namespace SPM.Data.Model
 {
     public class InvoiceEntity : BaseEntity 
     {
-        public string Status { get; set; }
+        public Status Status { get; set; }
         public int Total { get; set; }
         public int SubTotal { get; set; }
         public int VatValue { get; set; }
