@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SPM.Core.DTO;
-using SPM.Service.Country;
+using SPM.Services.Country;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,40 +10,37 @@ namespace SPM.API.Controllers
 {
     public class CountryController : BaseController
     {
-        private ICountryServies _CountrySerives;
+        private ICountryService _CountryService;
 
-        public CountryController(ICountryServies CountrySerives)
+        public CountryController(ICountryService countryService)
         {
-            _CountrySerives = CountrySerives;
+            _CountryService = countryService;
         }
 
         [HttpGet]
         public IActionResult GetAllPosts(int page = 1)
         {
-            var Countries = _CountrySerives.GetAll(page);
-            return Ok(GetRespons(Countries, "Done"));
+            var posts = _CountryService.GetAll(page);
+            return Ok(GetRespons(posts, "Done"));
         }
 
         [HttpPost]
         public async Task<IActionResult> CreateAsync([FromForm] CreateCountryDTO dto)
         {
-            await _CountrySerives.Create(dto);
+            await _CountryService.Create(dto);
             return Ok(GetRespons());
         }
+
         [HttpPut]
-        public IActionResult Update([FromBody] UpdateCountryDTO entity)
+        public IActionResult Update([FromForm] UpdateCountryDTO dto)
         {
-            _CountrySerives.Update(entity);
-            return Ok("Done");
+            _CountryService.Update(dto);
+            return Ok(GetRespons());
         }
-
-
         [HttpDelete]
-
         public IActionResult Delete(int id)
         {
-            _CountrySerives.Delete(id);
-
+            _CountryService.Delete(id);
             return Ok(GetRespons(null, "Done"));
         }
     }

@@ -78,12 +78,351 @@ D:\API Course\SPMProject\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.dll
 D:\API Course\SPMProject\BestShipment\SPM.API\obj\Debug\net5.0\ref\SPM.API.dll
 D:\API Course\SPMProject\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.pdb
 D:\API Course\SPMProject\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.genruntimeconfig.cache
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\API Course\SPMProject\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cs
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.dll
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Service.dll
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Service.pdb
-D:\API Course\SPMProject\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.Development.json
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.json
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.StaticWebAssets.xml
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.exe
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.deps.json
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.json
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.dev.json
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\ref\SPM.API.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Humanizer.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csprojAssemblyReference.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfoInputs.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfo.cs
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CoreCompileInputs.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cs
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.Manifest.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.xml
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\scopedcss\bundle\SPM.API.styles.css
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.input.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.output.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorCoreGenerate.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cache
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cs
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.Views.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CopyComplete
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.dll
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\ref\SPM.API.dll
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.genruntimeconfig.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.StaticWebAssets.xml
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.exe
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.deps.json
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.json
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.dev.json
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\ref\SPM.API.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csprojAssemblyReference.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfoInputs.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfo.cs
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CoreCompileInputs.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cs
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.Manifest.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.xml
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\scopedcss\bundle\SPM.API.styles.css
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.input.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.output.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorCoreGenerate.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cs
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.Views.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CopyComplete
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\ref\SPM.API.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.genruntimeconfig.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.StaticWebAssets.xml
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.exe
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.deps.json
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.json
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.dev.json
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\ref\SPM.API.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csprojAssemblyReference.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfoInputs.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfo.cs
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CoreCompileInputs.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cs
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.Manifest.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.xml
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\scopedcss\bundle\SPM.API.styles.css
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.input.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.output.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorCoreGenerate.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cache
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cs
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.Views.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CopyComplete
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\ref\SPM.API.dll
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.pdb
+C:\Users\ahlaa\Downloads\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.genruntimeconfig.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csprojAssemblyReference.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfoInputs.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.AssemblyInfo.cs
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CoreCompileInputs.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cs
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\ref\SPM.API.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.Development.json
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\appsettings.json
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.StaticWebAssets.xml
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.exe
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.deps.json
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.json
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.runtimeconfig.dev.json
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\ref\SPM.API.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Humanizer.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Data.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.Manifest.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.xml
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\scopedcss\bundle\SPM.API.styles.css
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.input.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.output.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorCoreGenerate.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cs
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.Views.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CopyComplete
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.genruntimeconfig.cache

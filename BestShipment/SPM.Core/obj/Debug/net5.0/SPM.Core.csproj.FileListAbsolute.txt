@@ -1,12 +1,24 @@
-D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.deps.json
-D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.dll
-D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\ref\SPM.Core.dll
-D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.pdb
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csprojAssemblyReference.cache
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfoInputs.cache
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfo.cs
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CoreCompileInputs.cache
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.dll
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\ref\SPM.Core.dll
-D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.deps.json
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\ref\SPM.Core.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.pdb
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csprojAssemblyReference.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfoInputs.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfo.cs
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CoreCompileInputs.cache
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\ref\SPM.Core.dll
+C:\Users\ahlaa\OneDrive\سطح المكتب\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.deps.json
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\ref\SPM.Core.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.pdb
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csprojAssemblyReference.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfoInputs.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfo.cs
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CoreCompileInputs.cache
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\ref\SPM.Core.dll
+D:\API Course\New folder\Best_Shipment_Projects-master\Best_Shipment_Projects-master\Best_Shipment_Projects-master\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb

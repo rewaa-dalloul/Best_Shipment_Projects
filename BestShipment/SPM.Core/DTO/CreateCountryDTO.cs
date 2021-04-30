@@ -8,8 +8,10 @@ namespace SPM.Core.DTO
 {
     public class CreateCountryDTO
     {
-        public string NameAr { get; set; }
-        public string NameEn { get; set; }
-
+        public String NameAr { get; set; }
+        public String NameEn { get; set; }
+        public List<int> CityId { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public string CreatedBy { get; set; }
     }
 }

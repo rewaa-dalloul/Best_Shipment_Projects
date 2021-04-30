@@ -8,6 +8,5 @@ namespace SPM.Data.Model
 {
     public enum UserType
     {
-        Client
     }
 }

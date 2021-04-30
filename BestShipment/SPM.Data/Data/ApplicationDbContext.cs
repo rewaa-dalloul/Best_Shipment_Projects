@@ -17,7 +17,7 @@ namespace SPM.Data
         {
             base.OnModelCreating(builder);
             builder.Entity<CountryEntity>().HasQueryFilter(x => !x.IsDelete);
-
+            builder.Entity<CityEntity>().HasQueryFilter(x => !x.IsDelete);
         }
         public DbSet<ClientEntity> Clients { get; set; }
         public DbSet<SupplierEntity> Suppliers { get; set; }

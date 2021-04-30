@@ -1,5 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using SPM.Core.ViewModel;
+﻿using CMS.Core.ViewModel;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace SPM.API.Controllers
 {
     [Route("api/[controller]/[action]")]
-
     public class BaseController : Controller
     {
         protected APIResponseViewModel GetRespons(object data = null, string message = "Done")

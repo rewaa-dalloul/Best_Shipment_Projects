@@ -9,7 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using SPM.Data;
-using SPM.Service.Country;
+using SPM.Services.City;
+using SPM.Services.Country;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,10 +41,9 @@ namespace SPM.API
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SPM", Version = "v1" });
-
-
             });
-            services.AddTransient<ICountryServies, CountryServices>();
+            services.AddScoped<ICountryService, CountryService>();
+            services.AddScoped<ICityService, CityService>();
 
         }
 
@@ -68,11 +68,6 @@ namespace SPM.API
 
             app.UseAuthentication();
             app.UseAuthorization();
-            app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "SPM API");
-            });
 
             app.UseEndpoints(endpoints =>
             {
@@ -80,6 +75,11 @@ namespace SPM.API
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
+            });
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "SPM API");
             });
         }
     }

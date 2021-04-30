@@ -8,10 +8,11 @@ namespace SPM.Core.DTO
 {
     public class UpdateCountryDTO
     {
-        public int Id { get; set; }
-        public string NameAr { get; set; }
-        public string NameEn { get; set; }
-
-       // public List<int> CityId { get; set; }
+        public int  Id{ get; set; }
+        public String NameAr { get; set; }
+        public String NameEn { get; set; }
+        public List<int> CityId { get; set; }
+        public DateTime? UpdatedAt { get; set; }
+        public string UpdatedBy { get; set; }
     }
 }
