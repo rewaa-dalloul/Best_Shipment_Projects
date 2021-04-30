@@ -10,8 +10,8 @@ using SPM.Data;
 namespace SPM.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210428193315_initdb2")]
-    partial class initdb2
+    [Migration("20210428175605_db2")]
+    partial class db2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

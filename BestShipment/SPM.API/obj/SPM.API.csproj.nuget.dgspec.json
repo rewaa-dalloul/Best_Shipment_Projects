@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API Course\\Final Github\\BestShipment\\SPM.API\\SPM.API.csproj": {}
+    "D:\\API Course\\SPMProject\\BestShipment\\SPM.API\\SPM.API.csproj": {}
   },
   "projects": {
-    "D:\\API Course\\Final Github\\BestShipment\\SPM.API\\SPM.API.csproj": {
+    "D:\\API Course\\SPMProject\\BestShipment\\SPM.API\\SPM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Course\\Final Github\\BestShipment\\SPM.API\\SPM.API.csproj",
+        "projectUniqueName": "D:\\API Course\\SPMProject\\BestShipment\\SPM.API\\SPM.API.csproj",
         "projectName": "SPM.API",
-        "projectPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.API\\SPM.API.csproj",
+        "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.API\\SPM.API.csproj",
         "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
-        "outputPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.API\\obj\\",
+        "outputPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
-                "projectPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj"
+              "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+                "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj"
+              },
+              "D:\\API Course\\SPMProject\\BestShipment\\SPM.Service\\SPM.Service.csproj": {
+                "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Service\\SPM.Service.csproj"
               }
             }
           }
@@ -67,6 +70,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.3, )"
             }
           },
           "imports": [
@@ -91,14 +98,72 @@
         }
       }
     },
-    "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+    "D:\\API Course\\SPMProject\\BestShipment\\SPM.Core\\SPM.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj",
-        "projectName": "SPM.Data",
-        "projectPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "projectUniqueName": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Core\\SPM.Core.csproj",
+        "projectName": "SPM.Core",
+        "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Core\\SPM.Core.csproj",
         "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
-        "outputPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\obj\\",
+        "outputPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alawael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "projectName": "SPM.Data",
+        "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
+        "outputPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,6 +219,71 @@
               "version": "[5.0.4, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\API Course\\SPMProject\\BestShipment\\SPM.Service\\SPM.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Service\\SPM.Service.csproj",
+        "projectName": "SPM.Service",
+        "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Service\\SPM.Service.csproj",
+        "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
+        "outputPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alawael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\API Course\\SPMProject\\BestShipment\\SPM.Core\\SPM.Core.csproj": {
+                "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Core\\SPM.Core.csproj"
+              },
+              "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+                "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

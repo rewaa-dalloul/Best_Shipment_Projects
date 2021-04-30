@@ -20,7 +20,7 @@ namespace SPM.API.Controllers
 
         public IActionResult Index()
         {
-            return Ok ("welcome");
+            return Redirect("/swagger");
         }
 
 

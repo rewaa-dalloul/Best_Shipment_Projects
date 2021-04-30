@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SPM.Data.Model
 {
-   public enum Status
+    public enum Status
     {
     }
 }

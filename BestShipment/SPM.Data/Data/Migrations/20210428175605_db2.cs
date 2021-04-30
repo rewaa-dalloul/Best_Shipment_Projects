@@ -2,7 +2,7 @@
 
 namespace SPM.Data.Migrations
 {
-    public partial class initdb2 : Migration
+    public partial class db2 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

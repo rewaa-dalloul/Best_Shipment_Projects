@@ -13,18 +13,3 @@ D:\API Course\SPMProject\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.dll
 D:\API Course\SPMProject\BestShipment\SPM.Data\obj\Debug\net5.0\ref\SPM.Data.dll
 D:\API Course\SPMProject\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.pdb
 D:\API Course\SPMProject\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.genruntimeconfig.cache
-D:\API Course\Final Github\BestShipment\SPM.Data\bin\Debug\net5.0\SPM.Data.deps.json
-D:\API Course\Final Github\BestShipment\SPM.Data\bin\Debug\net5.0\SPM.Data.runtimeconfig.json
-D:\API Course\Final Github\BestShipment\SPM.Data\bin\Debug\net5.0\SPM.Data.runtimeconfig.dev.json
-D:\API Course\Final Github\BestShipment\SPM.Data\bin\Debug\net5.0\SPM.Data.dll
-D:\API Course\Final Github\BestShipment\SPM.Data\bin\Debug\net5.0\ref\SPM.Data.dll
-D:\API Course\Final Github\BestShipment\SPM.Data\bin\Debug\net5.0\SPM.Data.pdb
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.csprojAssemblyReference.cache
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.GeneratedMSBuildEditorConfig.editorconfig
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.AssemblyInfoInputs.cache
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.AssemblyInfo.cs
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.csproj.CoreCompileInputs.cache
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.dll
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\ref\SPM.Data.dll
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.pdb
-D:\API Course\Final Github\BestShipment\SPM.Data\obj\Debug\net5.0\SPM.Data.genruntimeconfig.cache

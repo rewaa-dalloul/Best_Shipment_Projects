@@ -253,7 +253,10 @@ namespace SPM.Data.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("CountyId")
+                    b.Property<int?>("CounrtyId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CountryId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedAt")
@@ -279,7 +282,7 @@ namespace SPM.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CountyId");
+                    b.HasIndex("CounrtyId");
 
                     b.ToTable("Cities");
                 });
@@ -966,13 +969,11 @@ namespace SPM.Data.Migrations
 
             modelBuilder.Entity("SPM.Data.Model.CityEntity", b =>
                 {
-                    b.HasOne("SPM.Data.Model.CountryEntity", "County")
+                    b.HasOne("SPM.Data.Model.CountryEntity", "Counrty")
                         .WithMany("Cities")
-                        .HasForeignKey("CountyId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CounrtyId");
 
-                    b.Navigation("County");
+                    b.Navigation("Counrty");
                 });
 
             modelBuilder.Entity("SPM.Data.Model.ClientEntity", b =>

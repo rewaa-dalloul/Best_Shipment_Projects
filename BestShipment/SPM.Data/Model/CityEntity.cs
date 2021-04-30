@@ -10,8 +10,8 @@ namespace SPM.Data.Model
     {
         public string NameAr { get; set; }
         public string NameEn { get; set; }
-        public int CountyId { get; set; }
-        public CountryEntity County { get; set; }
+        public int CountryId { get; set; }
+        public CountryEntity Counrty { get; set; }
         public List<ClientEntity> Clients { get; set; }
         public List<SupplierEntity> Suppliers { get; set; }
     }

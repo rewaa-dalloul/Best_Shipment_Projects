@@ -1,0 +1,12 @@
+D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.deps.json
+D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.dll
+D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\ref\SPM.Core.dll
+D:\API Course\SPMProject\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.pdb
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csprojAssemblyReference.cache
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfoInputs.cache
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfo.cs
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CoreCompileInputs.cache
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.dll
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\ref\SPM.Core.dll
+D:\API Course\SPMProject\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb

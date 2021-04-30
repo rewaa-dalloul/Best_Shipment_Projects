@@ -7521,11 +7521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+      "projectUniqueName": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj",
       "projectName": "SPM.Data",
-      "projectPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+      "projectPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\SPM.Data.csproj",
       "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
-      "outputPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\obj\\",
+      "outputPath": "D:\\API Course\\SPMProject\\BestShipment\\SPM.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
