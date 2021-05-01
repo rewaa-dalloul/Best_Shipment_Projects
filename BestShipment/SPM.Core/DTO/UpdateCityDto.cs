@@ -12,7 +12,5 @@ namespace SPM.Core.DTO
         public string NameAr { get; set; }
         public string NameEn { get; set; }
         public int CountyId { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public string UpdatedBy { get; set; }
     }
 }

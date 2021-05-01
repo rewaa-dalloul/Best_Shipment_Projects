@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using SPM.Core.DTO;
 using SPM.Core.ViewModel;
 using SPM.Data;
@@ -14,71 +15,68 @@ namespace SPM.Services.City
     public class CityService : ICityService
     {
         private ApplicationDbContext _DB;
-        public CityService(ApplicationDbContext DB)
+        private readonly IMapper _mapper;
+        public CityService(ApplicationDbContext DB, IMapper mapper)
         {
-            _DB = DB; 
+            _DB = DB;
+            _mapper = mapper;
         }
-        public PagingViewModel GetAll(int page)
+        public PagingViewModel GetAll(PagingDto dto)
         {
 
-            var pages = Math.Ceiling(_DB.Cities.Count() / 10.0);
+            var pages = Math.Ceiling(_DB.Countries.Count() / dto.PerPage);
 
 
-            if (page < 1 || page > pages)
+            if (dto.Page < 1 || dto.Page > pages)
             {
-                page = 1;
+                dto.Page = 1;
             }
 
-            var skip = (page - 1) * 10;
+            var skip = (dto.Page - 1) * (int)dto.PerPage;
+            var citiesVM = _mapper.Map <List<CityEntity>,List<CityVM)>>().Skip(skip).Take((int)dto.PerPage).ToList();
 
             var cities = _DB.Cities.Include(x=> x.Country).Select(x => new CityVM()
-            {
-                Id = x.Id,
-                NameAr = x.NameAr,
-                NameEn = x.NameEn,
-                Country = new CountryVM()
-                {
-                    Id = x.Id,
-                    NameAr = x.NameAr,
-                    NameEn = x.NameEn,
-                    CreatedAt = x.CreatedAt,
-                    CreatedBy = x.CreatedBy,
-                    UpdatedAt = x.UpdatedAt,
-                    UpdatedBy = x.UpdatedBy,
-                },
-            }).Skip(skip).Take(10).ToList();
+            //{
+            //    Id = x.Id,
+            //    NameAr = x.NameAr,
+            //    NameEn = x.NameEn,
+            //    Country = new CountryVM()
+            //    {
+            //        Id = x.Id,
+            //        NameAr = x.NameAr,
+            //        NameEn = x.NameEn,
+
+            //    },
+            //}).Skip(skip).Take((int)dto.PerPage).ToList();
 
             var pagingResult = new PagingViewModel();
             pagingResult.Data = cities;
             pagingResult.NumberOfPages = (int)pages;
-            pagingResult.CureentPage = page;
+            pagingResult.CureentPage = dto.Page;
 
             return pagingResult;
         }
         public async Task Create(CreateCityDto dto)
         {
 
-            var createdPost = new CityEntity()
+            var City = new CityEntity()
             {
                 NameAr = dto.NameAr,
                 NameEn = dto.NameEn,
                 CountryId = dto.CountyId,
-                CreatedAt = dto.CreatedAt,
-                CreatedBy = dto.CreatedBy
+               
             };
 
-            _DB.Cities.Add(createdPost);
+            await _DB.Cities.AddAsync(City);
             _DB.SaveChanges();
         }
-            public void Update(UpdateCityDto dto)
+            public async Task Update(UpdateCityDto dto)
         {
-            var cities = _DB.Cities.SingleOrDefault(x => x.Id == dto.Id && !x.IsDelete);
-            cities.NameAr = dto.NameAr;
-            cities.NameEn = dto.NameEn;
-            cities.UpdatedAt = dto.UpdatedAt;
-            cities.UpdatedBy = dto.UpdatedBy;
-            cities.CountryId = dto.CountyId;
-            _DB.Cities.Update(cities);
+            var city = _DB.Cities.SingleOrDefault(x => x.Id == dto.Id && !x.IsDelete);
+            city.NameAr = dto.NameAr;
+            city.NameEn = dto.NameEn;
+            city.CountryId = dto.CountyId;
+             _DB.Cities.Update(city);
             _DB.SaveChanges();
         }
         public void Delete(int id)

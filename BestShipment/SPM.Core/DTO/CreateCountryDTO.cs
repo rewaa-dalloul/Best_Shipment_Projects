@@ -10,8 +10,5 @@ namespace SPM.Core.DTO
     {
         public String NameAr { get; set; }
         public String NameEn { get; set; }
-        public List<int> CityId { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public string CreatedBy { get; set; }
     }
 }

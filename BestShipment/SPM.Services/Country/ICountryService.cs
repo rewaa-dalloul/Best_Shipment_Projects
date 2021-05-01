@@ -10,7 +10,7 @@ namespace SPM.Services.Country
 {
     public interface ICountryService
     {
-        PagingViewModel GetAll(int page);
+        PagingViewModel GetAll(PagingDto dto);
         Task Create(CreateCountryDTO dto);
         void Update(UpdateCountryDTO dto);
         void Delete(int id);

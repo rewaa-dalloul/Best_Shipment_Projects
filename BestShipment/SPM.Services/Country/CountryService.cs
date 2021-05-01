@@ -18,40 +18,37 @@ namespace SPM.Services.Country
         {
             _Db = db;
         }
-        public PagingViewModel GetAll(int page)
+        public PagingViewModel GetAll(PagingDto dto)
         {
+            
+            var pages = Math.Ceiling(_Db.Countries.Count() / dto.PerPage);
 
-            var pages = Math.Ceiling(_Db.Countries.Count() / 10.0);
 
-
-            if (page < 1 || page > pages)
+            if (dto.Page < 1 || dto.Page > pages)
             {
-                page = 1;
+                dto.Page = 1;
             }
 
-            var skip = (page - 1) * 10;
+            var skip = (dto.Page - 1) * (int)dto.PerPage;
 
             var countries = _Db.Countries.Include(x => x.Cities).Select(x => new CountryVM()
                 {
                     Id = x.Id,
                     NameAr = x.NameAr,
                     NameEn = x.NameEn,
-                    CreatedAt=x.CreatedAt,
-                    CreatedBy=x.CreatedBy,
-                    UpdatedAt=x.UpdatedAt,
-                    UpdatedBy=x.UpdatedBy,
+                    
                 Cities = x.Cities.Select(v => new CityVM()
                 {
                     Id = v.Id,
                     NameAr = v.NameAr,
                     NameEn=v.NameEn,
                 }).ToList(),
-            }).Skip(skip).Take(10).ToList();
+            }).Skip(skip).Take((int)dto.PerPage).ToList();
 
             var pagingResult = new PagingViewModel();
             pagingResult.Data = countries;
             pagingResult.NumberOfPages = (int)pages;
-            pagingResult.CureentPage = page;
+            pagingResult.CureentPage = dto.Page;
 
             return pagingResult;
         }
@@ -63,21 +60,12 @@ namespace SPM.Services.Country
             {
                 NameAr = dto.NameAr,
                 NameEn = dto.NameEn,
-                CreatedAt=dto.CreatedAt,
-                CreatedBy=dto.CreatedBy
             };
 
-            _Db.Countries.Add(createdCountry);
+           await _Db.Countries.AddAsync(createdCountry);
             _Db.SaveChanges();
 
-            foreach (var x in dto.CityId)
-            {
-                var city = new CityEntity();
-                city.CountryId = createdCountry.Id;
-
-                _Db.Cities.Add(city);
-            }
-            _Db.SaveChanges();
+           
         }
 
         public void Update(UpdateCountryDTO dto)
@@ -85,8 +73,6 @@ namespace SPM.Services.Country
             var country = _Db.Countries.SingleOrDefault(x => x.Id == dto.Id && !x.IsDelete);
             country.NameAr = dto.NameAr;
             country.NameEn = dto.NameEn;
-            country.UpdatedAt = dto.UpdatedAt;
-            country.UpdatedBy = dto.UpdatedBy;
             _Db.Countries.Update(country);
             _Db.SaveChanges();
         }

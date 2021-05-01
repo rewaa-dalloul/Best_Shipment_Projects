@@ -12,9 +12,9 @@ namespace SPM.Services.City
 {
     public interface ICityService
     {
-        PagingViewModel GetAll(int page);
+        PagingViewModel GetAll(PagingDto dto);
         Task Create(CreateCityDto dto);
-        void Update(UpdateCityDto dto);
+        Task Update(UpdateCityDto dto);
         void Delete(int id);
     }
 }

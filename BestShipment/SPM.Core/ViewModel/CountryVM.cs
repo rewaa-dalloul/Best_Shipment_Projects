@@ -12,9 +12,5 @@ namespace SPM.Core.ViewModel
         public String NameAr { get; set; }
         public String NameEn { get; set; }
         public List<CityVM> Cities { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public string CreatedBy { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public string UpdatedBy { get; set; }
     }
 }

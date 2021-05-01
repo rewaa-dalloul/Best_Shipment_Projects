@@ -16,9 +16,9 @@ namespace SPM.API.Controllers
             _cityservice = cityservice;
         }
         [HttpGet]
-        public IActionResult GetAllPosts(int page = 1)
+        public IActionResult GetAll(PagingDto dto)
         {
-            var posts = _cityservice.GetAll(page);
+            var posts = _cityservice.GetAll(dto);
             return Ok(GetRespons(posts, "Done"));
         }
 
