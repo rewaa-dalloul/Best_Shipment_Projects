@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using SPM.Core.DTO;
 using SPM.Core.ViewModel;
 using SPM.Data;
@@ -14,9 +15,12 @@ namespace SPM.Services.Country
     public class CountryService:ICountryService
     {
         private ApplicationDbContext _Db;
-        public CountryService(ApplicationDbContext db)
+        private readonly IMapper _mapper;
+
+        public CountryService(ApplicationDbContext db,IMapper mapper)
         {
             _Db = db;
+            _mapper = mapper;
         }
         public PagingViewModel GetAll(PagingDto dto)
         {
@@ -30,20 +34,22 @@ namespace SPM.Services.Country
             }
 
             var skip = (dto.Page - 1) * (int)dto.PerPage;
-
-            var countries = _Db.Countries.Include(x => x.Cities).Select(x => new CountryVM()
-                {
-                    Id = x.Id,
-                    NameAr = x.NameAr,
-                    NameEn = x.NameEn,
+            var countries = _Db.Countries.Include(x => x.Cities).Skip(skip).Take((int)dto.PerPage).ToList();
+            var countriesVM = _mapper.Map<List<CountryEntity>, List<CountryVM>>(countries);
+            
+            //var countries = _Db.Countries.Include(x => x.Cities).Select(x => new CountryVM()
+            //    {
+            //        Id = x.Id,
+            //        NameAr = x.NameAr,
+            //        NameEn = x.NameEn,
                     
-                Cities = x.Cities.Select(v => new CityVM()
-                {
-                    Id = v.Id,
-                    NameAr = v.NameAr,
-                    NameEn=v.NameEn,
-                }).ToList(),
-            }).Skip(skip).Take((int)dto.PerPage).ToList();
+            //    Cities = x.Cities.Select(v => new CityVM()
+            //    {
+            //        Id = v.Id,
+            //        NameAr = v.NameAr,
+            //        NameEn=v.NameEn,
+            //    }).ToList(),
+            //}).Skip(skip).Take((int)dto.PerPage).ToList();
 
             var pagingResult = new PagingViewModel();
             pagingResult.Data = countries;
@@ -55,14 +61,15 @@ namespace SPM.Services.Country
 
         public async Task Create(CreateCountryDTO dto)
         {
+            var CountryDTo = _mapper.Map<CreateCountryDTO, CountryEntity>(dto);
 
-            var createdCountry = new CountryEntity()
-            {
-                NameAr = dto.NameAr,
-                NameEn = dto.NameEn,
-            };
+            //var createdCountry = new CountryEntity()
+            //{
+            //    NameAr = dto.NameAr,
+            //    NameEn = dto.NameEn,
+            //};
 
-           await _Db.Countries.AddAsync(createdCountry);
+            await _Db.Countries.AddAsync(CountryDTo);
             _Db.SaveChanges();
 
            

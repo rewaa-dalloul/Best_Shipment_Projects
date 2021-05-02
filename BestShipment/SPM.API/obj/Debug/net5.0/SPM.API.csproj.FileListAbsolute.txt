@@ -89,7 +89,6 @@ D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.dll
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\ref\SPM.API.dll
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.pdb
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.dll
-D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.API.Views.pdb
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Humanizer.dll
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -142,18 +141,10 @@ D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.Assembl
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CoreCompileInputs.cache
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cs
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.MvcApplicationPartsAssemblyInfo.cache
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cache
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorAssemblyInfo.cs
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.Manifest.cache
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\staticwebassets\SPM.API.StaticWebAssets.xml
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\scopedcss\bundle\SPM.API.styles.css
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.input.cache
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.TagHelpers.output.cache
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorCoreGenerate.cache
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cache
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.RazorTargetAssemblyInfo.cs
-D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.Views.pdb
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.csproj.CopyComplete
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\SPM.API.dll
 D:\API Course\Final Github\BestShipment\SPM.API\obj\Debug\net5.0\ref\SPM.API.dll
@@ -434,3 +425,5 @@ D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.dll
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.dll
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Services.pdb
 D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\SPM.Core.pdb
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\AutoMapper.dll
+D:\API Course\Final Github\BestShipment\SPM.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

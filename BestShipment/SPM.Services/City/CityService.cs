@@ -33,9 +33,9 @@ namespace SPM.Services.City
             }
 
             var skip = (dto.Page - 1) * (int)dto.PerPage;
-            var citiesVM = _mapper.Map <List<CityEntity>,List<CityVM)>>().Skip(skip).Take((int)dto.PerPage).ToList();
-
-            var cities = _DB.Cities.Include(x=> x.Country).Select(x => new CityVM()
+            var cities = _DB.Cities.Include(x => x.Country).Skip(skip).Take((int)dto.PerPage).ToList();
+            var citiesVM = _mapper.Map<List<CityEntity>, List<CityVM>>(cities);
+           // var cities = _DB.Cities.Include(x=> x.Country).Select(x => new CityVM()
             //{
             //    Id = x.Id,
             //    NameAr = x.NameAr,
@@ -59,15 +59,18 @@ namespace SPM.Services.City
         public async Task Create(CreateCityDto dto)
         {
 
-            var City = new CityEntity()
-            {
-                NameAr = dto.NameAr,
-                NameEn = dto.NameEn,
-                CountryId = dto.CountyId,
+            //var City = new CityEntity();
+            var cityDTo = _mapper.Map<CreateCityDto,CityEntity> (dto);
                
-            };
 
-            await _DB.Cities.AddAsync(City);
+            //{
+            //    NameAr = dto.NameAr,
+            //    NameEn = dto.NameEn,
+            //    CountryId = dto.CountyId,
+               
+            //};
+
+            await _DB.Cities.AddAsync(cityDTo);
             _DB.SaveChanges();
         }
             public async Task Update(UpdateCityDto dto)
