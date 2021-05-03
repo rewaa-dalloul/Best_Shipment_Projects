@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LppN/KiGVL4tKGM1pWU0xL+eUl03EApT5KBg//UgnDIVyhEgCte0T1GCJD8CXkRek/HT+CiDLq6D8I+9eRcCKw==",
+  "dgSpecHash": "KWO3+zaWfKw0aumhfI4uJ7IOke05IktgvrxUxWgKnPUPxmLDcY1MsFVEFE1iIx0U7D+uUwrGNkGKgbdNQXJznA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

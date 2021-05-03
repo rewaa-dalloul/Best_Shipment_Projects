@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj": {
+    "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj",
         "projectName": "SPM.Core",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\SPM.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj"
+              "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+    "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
         "projectName": "SPM.Data",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

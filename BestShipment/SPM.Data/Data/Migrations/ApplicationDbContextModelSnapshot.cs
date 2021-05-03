@@ -253,7 +253,7 @@ namespace SPM.Data.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<int>("CountyId")
+                    b.Property<int>("CountryId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedAt")
@@ -279,7 +279,7 @@ namespace SPM.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CountyId");
+                    b.HasIndex("CountryId");
 
                     b.ToTable("Cities");
                 });
@@ -822,8 +822,14 @@ namespace SPM.Data.Migrations
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
 
+                    b.Property<string>("FCMToken")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("FirstName")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDelete")
+                        .HasColumnType("bit");
 
                     b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
@@ -966,13 +972,13 @@ namespace SPM.Data.Migrations
 
             modelBuilder.Entity("SPM.Data.Model.CityEntity", b =>
                 {
-                    b.HasOne("SPM.Data.Model.CountryEntity", "County")
+                    b.HasOne("SPM.Data.Model.CountryEntity", "Country")
                         .WithMany("Cities")
-                        .HasForeignKey("CountyId")
+                        .HasForeignKey("CountryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("County");
+                    b.Navigation("Country");
                 });
 
             modelBuilder.Entity("SPM.Data.Model.ClientEntity", b =>
