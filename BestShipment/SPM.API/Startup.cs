@@ -12,7 +12,9 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using SPM.Data;
 using SPM.Services.City;
+using SPM.Services.Client;
 using SPM.Services.Country;
+using SPM.Services.Supplier;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -67,6 +69,10 @@ namespace SPM.API
             });
             services.AddScoped<ICountryService, CountryService>();
             services.AddScoped<ICityService, CityService>();
+            services.AddScoped<IClientService, ClientService>();
+            services.AddScoped<ISupplierService, SupplierService>();
+
+
             services.AddAutoMapper(typeof(Startup));
         }
 

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {}
+    "C:\\Users\\alawael\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+    "C:\\Users\\alawael\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "projectUniqueName": "C:\\Users\\alawael\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
         "projectName": "SPM.Data",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\obj\\",
+        "projectPath": "C:\\Users\\alawael\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alawael\\source\\repos\\rewaa-dalloul\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alawael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
