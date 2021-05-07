@@ -18,8 +18,8 @@ namespace SPM.API.Controllers
         [HttpGet]
         public IActionResult GetAll(PagingDto dto)
         {
-            var posts = _cityservice.GetAll(dto);
-            return Ok(GetRespons(posts, "Done"));
+            var cities = _cityservice.GetAll(dto);
+            return Ok(GetRespons(cities, "Done"));
         }
 
         [HttpPost]

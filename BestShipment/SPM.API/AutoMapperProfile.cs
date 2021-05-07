@@ -17,6 +17,8 @@ namespace SPM.API
             CreateMap<CreateCityDto, CityEntity>();
             CreateMap<CountryEntity, CountryVM>();
             CreateMap<CreateCountryDTO, CountryEntity>();
+            CreateMap<ClientEntity, ClientVM>();
+            CreateMap<CreateClientDTO, ClientEntity>();
         }
 
 

@@ -9,7 +9,6 @@ namespace SPM.Data.Model
 {
     public class UserEntity : IdentityUser
     {
-        public string Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public UserType UserType { get; set; }

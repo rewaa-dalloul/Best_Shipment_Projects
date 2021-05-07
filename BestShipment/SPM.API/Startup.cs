@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using SPM.Data;
 using SPM.Services.City;
+using SPM.Services.Client;
 using SPM.Services.Country;
 using System;
 using System.Collections.Generic;
@@ -43,7 +44,8 @@ namespace SPM.API
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SPM", Version = "v1" });
             });
             services.AddScoped<ICountryService, CountryService>();
-            services.AddScoped<ICityService, CityService>();
+            services.AddScoped<IClientService, ClientService>();
+
             services.AddAutoMapper(typeof(Startup));
         }
 
