@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BestShipment",
+    "\\BestShipment\\SPM.API",
+    "\\BestShipment\\SPM.Core",
+    "\\BestShipment\\SPM.Core\\DTO",
+    "\\BestShipment\\SPM.Services",
+    "\\BestShipment\\SPM.Services\\Supplier"
+  ],
+  "SelectedNode": "\\BestShipment\\SPM.Core\\DTO",
+  "PreviewInSolutionExplorer": false
+}

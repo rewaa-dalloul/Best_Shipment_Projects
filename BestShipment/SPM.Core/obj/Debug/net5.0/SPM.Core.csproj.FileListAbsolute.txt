@@ -37,3 +37,33 @@ D:\API Course\Final Github\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb
 D:\API Course\Final Github\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Data.dll
 D:\API Course\Final Github\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Data.pdb
 D:\API Course\Final Github\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.deps.json
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.dll
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\ref\SPM.Core.dll
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.pdb
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Data.dll
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Data.pdb
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.dll
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\ref\SPM.Core.dll
+C:\Users\hp\source\repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.deps.json
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.dll
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\ref\SPM.Core.dll
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Core.pdb
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Data.dll
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\bin\Debug\net5.0\SPM.Data.pdb
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csprojAssemblyReference.cache
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfoInputs.cache
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.AssemblyInfo.cs
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CoreCompileInputs.cache
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.csproj.CopyComplete
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.dll
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\ref\SPM.Core.dll
+C:\Users\alawael\Source\Repos\rewaa-dalloul\Best_Shipment_Projects\BestShipment\SPM.Core\obj\Debug\net5.0\SPM.Core.pdb

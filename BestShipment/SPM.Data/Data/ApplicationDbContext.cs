@@ -19,6 +19,11 @@ namespace SPM.Data
             builder.Entity<CountryEntity>().HasQueryFilter(x => !x.IsDelete);
             builder.Entity<CityEntity>().HasQueryFilter(x => !x.IsDelete);
             builder.Entity<ClientEntity>().HasQueryFilter(x => !x.IsDelete);
+<<<<<<< HEAD
+=======
+            builder.Entity<SupplierEntity>().HasQueryFilter(x => !x.IsDelete);
+
+>>>>>>> 4a8f5fd8edb4bf25bbe2d7b8dd7c8f3ea62625fa
 
         }
         public DbSet<ClientEntity> Clients { get; set; }

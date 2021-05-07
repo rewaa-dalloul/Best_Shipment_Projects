@@ -19,6 +19,11 @@ namespace SPM.API
             CreateMap<CreateCountryDTO, CountryEntity>();
             CreateMap<ClientEntity, ClientVM>();
             CreateMap<CreateClientDTO, ClientEntity>();
+<<<<<<< HEAD
+=======
+            CreateMap<SupplierEntity, SupplierVM>();
+            CreateMap<CreateSupplierDTO, SupplierEntity>();
+>>>>>>> 4a8f5fd8edb4bf25bbe2d7b8dd7c8f3ea62625fa
         }
 
 

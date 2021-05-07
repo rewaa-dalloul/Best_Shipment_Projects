@@ -16,6 +16,8 @@ namespace SPM.Data.Model
         public ClientEntity Client { get; set; }
         public int? SupplierId { get; set; }
         public SupplierEntity Supplier { get; set; }
+        public string FCMToken { get; set; }
+        public bool IsDelete { get; set; }
 
     }
 }
