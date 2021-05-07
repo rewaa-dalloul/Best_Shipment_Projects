@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mr Karam\\Source\\Repos\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {}
+    "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mr Karam\\Source\\Repos\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
+    "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mr Karam\\Source\\Repos\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "projectUniqueName": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj",
         "projectName": "SPM.Data",
-        "projectPath": "C:\\Users\\Mr Karam\\Source\\Repos\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\SPM.Data.csproj",
-        "packagesPath": "C:\\Users\\Mr Karam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mr Karam\\Source\\Repos\\Best_Shipment_Projects\\BestShipment\\SPM.Data\\obj\\",
+        "projectPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\SPM.Data.csproj",
+        "packagesPath": "C:\\Users\\alawael\\.nuget\\packages\\",
+        "outputPath": "D:\\API Course\\Final Github\\BestShipment\\SPM.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mr Karam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alawael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
